@@ -30,7 +30,7 @@ It is a python notebook (why not, right?) with a few elements that I describe be
 ### The Dictionary
 
 It uses what I call a "dictionary" to suggest a word, from the "Wikipedia Word Frequency" located at https://github.com/IlyaSemenov/wikipedia-word-frequency.
-It was created from a wikipedia article dumps from https://dumps.wikimedia.org/enwiki/ and gathered the word frequency distribution data.
+It was created from wikipedia article dumps from https://dumps.wikimedia.org/enwiki/ and gathered the word frequency distribution data.
 
 ### Regular Expression
 
