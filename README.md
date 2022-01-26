@@ -47,7 +47,8 @@ The main function is:
  - attempts: Number of attempts allowed. The code is prepared to deal
    with any number of attempts.
  - word_length: Word Length. The code is prepared to deal with any word
-   Lengh dictionary: Dictionary to be used
+   Lengh dictionary: 
+ - Dictionary to be used
  - random_word_mode: If set to `True`, take a guess from the 5% most
    used words. If `False`, take the most used one.
 
