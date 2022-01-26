@@ -15,7 +15,7 @@ But let wordle explain itself:
 
 You can access wordle in: https://www.powerlanguage.co.uk/wordle/
 
-Moree about wordle: https://en.wikipedia.org/wiki/Wordle
+More about wordle: https://en.wikipedia.org/wiki/Wordle
 
 I was introduced to wordle in the **Eastern University Data Science Master** course Discord channel, by one of our fellow students (tks @Dustin). 
 
