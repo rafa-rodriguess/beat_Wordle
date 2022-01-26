@@ -17,7 +17,7 @@ You can access wordle in: https://www.powerlanguage.co.uk/wordle/
 
 More about wordle: https://en.wikipedia.org/wiki/Wordle
 
-I was introduced to wordle in the **Eastern University Data Science Master** course Discord channel, by one of our fellow students (tks @Dustin). 
+I was introduced to wordle in the [**Eastern University Data Science Master**](https://www.eastern.edu/data) course Discord channel, by one of our fellow students (tks @Dustin). 
 
 I am from Brazil, and despite my day after day effort, I still have a vocabulary of a 10 years old boy (ok.. even less). Most of it was acquired by watching 80/90 Seinfeld, Friends, and others.
 
