@@ -36,7 +36,7 @@ It was created from wikipedia article dumps from https://dumps.wikimedia.org/enw
 
 From that, the code uses a series of [regular expressions](https://simple.wikipedia.org/wiki/Regular_expression#:~:text=A%20regular%20expression%20%28abbreviated%20regexp,of%20characters%20using%20syntactic%20rules.&text=A%20regular%20expression%20processor%20is,that%20examines%20a%20text%20string.) to filter the dictionary after each attempt. 
 
-In every iteration, the code shows which regex was used to filter the dictionary down and the size of the remaining dictionary. The idea is to feed the code back with the game output with **'g'** for **g**reen, **'y'** for **y**ellow, or **'b'** for **b**lack. I also created an **'x'** - used when a word is not recognized, **'e'** to ignore the suggested word and **e**nter your own and **'q'** to **q**uit the game.
+In every iteration, the code shows which regex was used to filter the dictionary down and the size of the remaining dictionary. The idea is to feed the code back with the game output with **'g'** for **g**reen, **'y'** for **y**ellow, or **'b'** for **b**lack. I also created an **'n'** - used when a word is **n**ot-recognized, **'i'** to **i**gnore the suggestion and enter your own word and **'q'** to **q**uit the game.
 
 
 ### Main Function
