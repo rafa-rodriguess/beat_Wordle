@@ -42,15 +42,14 @@ In every iteration, the code shows which regex was used to filter the dictionary
 ### Main Function
 The main function is:
 
-    break_wordle(attempts, word_length, dictionary, random_word_mode = False)
+    break_wordle(attempts:int, word_length:int, dictionary:pd.core.frame.DataFrame, guess_percent:int = 0) -> None:
 
- - **attempts:** Number of attempts allowed. The code is prepared to deal
+ - **attempts:** Integer. Number of attempts allowed. The code is prepared to deal
    with any number of attempts.
- - **word_length:** Word Length. The code is prepared to deal with any word
+ - **word_length:** Integer. Word Length. The code is prepared to deal with any word
    Lengh  
- - **dictionary:** Dictionary to be used
- - **random_word_mode:** If set to `True`, take a guess from the 5% most
-   used words. If `False`, take the most used one.
+ - **dictionary:** Pandas dataframe with a list of most used words
+ - **guess_percent:** Integer. If 0, get the most used word. If > 0, pick a random work from the top guess_percent % used words
 
 
 ![game played](all%20attempts.png)
