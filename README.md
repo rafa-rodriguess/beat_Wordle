@@ -1,5 +1,5 @@
 
-# WORDLE Breaker
+# Beat Wordle
 
 ## Goal and Motivation
 
@@ -25,7 +25,7 @@ As you can imagine, I got really frustrated after trying to beat the game. So, I
 
 ## The Code
 
-It is a python notebook (why not, right?) with a few elements that I describe below:
+It is a python notebook (why not, right?) ***beat_wordle.ipynb*** with a few elements that I describe below:
 
 ### The Dictionary
 
@@ -42,7 +42,7 @@ In every iteration, the code shows which regex was used to filter the dictionary
 ### Main Function
 The main function is:
 
-    break_wordle(attempts:int, word_length:int, dictionary:pd.core.frame.DataFrame, guess_percent:int = 0) -> None:
+    beat_wordle(attempts:int, word_length:int, dictionary:pd.core.frame.DataFrame, guess_percent:int = 0) -> None:
 
  - **attempts:** Integer. Number of attempts allowed. The code is prepared to deal
    with any number of attempts.
